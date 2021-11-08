@@ -1,10 +1,17 @@
-## Blog Post Title From First Header
+##  Drupal? Why should I care?
 
-Due to a plugin called `jekyll-titles-from-headings` which is supported by GitHub Pages by default. The above header (in the markdown file) will be automatically used as the pages title.
+Drupal is a content management system (CMS), just like wordpress, but free (which is so much better). 
+It has a module design, which means we can install and uninstalle features (modules) and also change the way it looks through the themes, that can also
+been install and uninstall.
 
-If the file does not start with a header, then the post title will be derived from the filename.
 
-This is a sample blog post. You can talk about all sorts of fun things here.
+Read more about this incredible CMS below.
+
+##  How it works?
+
+Drupal has a base that is know as Drupal core and it runs the basic funcionality of a CMS with its modules and themes. The core provide us a lot
+of modules and themes, as I said, but we can also install others outside the core, this are founded at Drupal.org. This modules and themes are made by the people of the Drupal Community. 
+
 
 ---
 
