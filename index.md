@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+So, we are doing this, right? I mean, learning drupal and stuff. It all start with a new job, and now i'm here sharing and learning.
